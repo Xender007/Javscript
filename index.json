@@ -1,0 +1,38 @@
+[
+			{   
+              "header":"KTLA 5",
+              "link":"tribble.wordpress.com",
+              "comments":"5 New Comments", 
+              "posts":"4370 Posts",
+              "followers":"172 Followers",
+              "button_customize":"Customize",
+              "button_settings":"Settings",
+              "button_upgrades":"Upgrades",
+              "image": "images/section-one-image.png",
+			  "relation":"private"},
+
+          {   
+              "header":"Audibles - SI.com",
+              "link":"sinft.wordpress.com",
+              "comments":"5 New Comments", 
+              "posts":"4370 Posts",
+              "followers":"172 Followers",
+              "button_customize":"Customize",
+              "button_settings":"Settings",
+              "button_upgrades":"Upgrades",
+              "image": "images/section-two-image.png",
+			  "relation":"private"},
+      
+          {   
+              "header":"ProBasketballTalk",
+              "link":"probasketballtalk.wordpress.com",
+              "comments":"5 New Comments", 
+              "posts":"4370 Posts",
+              "followers":"172 Followers",
+              "button_customize":"Customize",
+              "button_settings":"Settings",
+              "button_upgrades":"Upgrades",
+              "image": "images/section-three-image.png",
+			  "relation":"public"
+			  }
+]
